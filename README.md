@@ -1,14 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Swapnil Bawaskar
+Hi My name is Swapnil Bawaskar
 ========================================================================================================================================
-
-Software Engineer | Java, Spring Boot, Microservices
-----------------------------------------------------
-
-Diversly skilled Software Engineer with 6 years and 9 months of experience in Software Development, specializing in Java/J2EE technologies across diverse domains, including Finance and IoT. I have hands on experience throughout the phases of SDLC, from requirement analysis (R&D) to deployment and maintenance. I look forward to being a part of an organization where my skill set will help me achieve my goals while upholding the organization's vision.
-
+<h3 style="color:red">
+Diversly skilled Software Engineer with 7 years of experience in Software Development, specializing in Java/J2EE technologies across diverse domains, including Finance and IoT. I have hands on experience throughout the phases of SDLC, from requirement analysis (R&D) to deployment and maintenance.
+</h3>
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/swapit29"><img src="https://github-readme-stats.vercel.app/api?username=swapit29&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="swapit29's GitHub stats" /></a>
 
 <a href="http://www.github.com/swapit29"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swapit29&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
