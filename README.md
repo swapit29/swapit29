@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Java, Spring Boot, Microservices
 ----------------------------------------------------
 
-Diversly skilled Software Engineer with 6 years and 9 months of experience in Software Development, specializing in Java/J2EE technologies across diverse domains, including Finance, IoT, and ERP. I have hands on experience throughout the phases of SDLC, from requirement analysis (R&D) to deployment and maintenance. I look forward to being a part of an organization where my skill set will help me achieve my goals while upholding the organization's vision.
+Diversly skilled Software Engineer with 6 years and 9 months of experience in Software Development, specializing in Java/J2EE technologies across diverse domains, including Finance and IoT. I have hands on experience throughout the phases of SDLC, from requirement analysis (R&D) to deployment and maintenance. I look forward to being a part of an organization where my skill set will help me achieve my goals while upholding the organization's vision.
 
 <b>My GitHub Stats</b>
 
