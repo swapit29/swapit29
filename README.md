@@ -6,7 +6,7 @@
 </ol>
 
 &nbsp;![](https://komarev.com/ghpvc/?username=swapit&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapit29&show_icons=true&theme=onedark&locale=en" alt="swapit29" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapit29&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="swapit29" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapit29&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=onedark" />
 </p>
 
